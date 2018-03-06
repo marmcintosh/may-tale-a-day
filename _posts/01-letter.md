@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Letter 01"
+author: "Pamela Andrews"
+---
 Dear Father and Mother,
 
 I have great trouble, and some comfort, to acquaint you with. The trouble is, that my good lady died of the illness I mentioned to you, and left us all much grieved for the loss of her; for she was a dear good lady, and kind to all us her servants. Much I feared, that as I was taken by her ladyship to wait upon her person, I should be quite destitute again, and forced to return to you and my poor mother, who have enough to do to maintain yourselves; and, as my lady’s goodness had put me to write and cast accounts, and made me a little expert at my needle, and otherwise qualified above my degree, it was not every family that could have found a place that your poor Pamela was fit for: but God, whose graciousness to us we have so often experienced at a pinch, put it into my good lady’s heart, on her death-bed, just an hour before she expired, to recommend to my young master all her servants, one by one; and when it came to my turn to be recommended, (for I was sobbing and crying at her pillow) she could only say, My dear son!—and so broke off a little; and then recovering—Remember my poor Pamela—And these were some of her last words! O how my eyes run—Don’t wonder to see the paper so blotted.
